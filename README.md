@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ujjawalp or you can use nao, its just my alias on the internet
+- 👋 Hi, I’m @Ujjawalp or you can use nao
 - 👀 I’m interested in coding, games, reading, animes, mangas and everything that looks interesting
 - 🌱 I’m currently learning C/C++ and some basic japanese on the side
 - 💞️ I’m looking to collaborate on a translation app after I learn the basics since i want my first project to be a basic hiragana translation app
